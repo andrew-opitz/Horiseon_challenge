@@ -10,7 +10,9 @@ N/A
 
 ## Usage
 
-
+![alt text](./assets/images/screenshot_1.png)
+![alt text](./assets/images/screenshot_2.png)
+![alt text](./assets/images/screenshot_3.png)
 
 ## Credits
 
