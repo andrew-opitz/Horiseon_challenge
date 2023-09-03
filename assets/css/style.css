@@ -1,13 +1,14 @@
+/* GLOBAL RESETS */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* CUSTOM STYLES */
 body {
     background-color: #d9dcd6;
 }
-
+/* CLASS STYLES */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,7 +41,7 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* GLOBAL RESETS */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -49,7 +50,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* CLASS STYLES */
 .hero {
     height: 800px;
     width: 100%;
